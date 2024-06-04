@@ -1,5 +1,3 @@
-//Muneeb Bin Nasir - 2022463 - CS101B - Project - Task 2
-
 #include <iostream>
 #include <time.h>
 
